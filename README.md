@@ -2,20 +2,20 @@
 
 # DOM API
 ## Lessons:
- - [x] 1. Введение
- - [x] 2. JavaScript в браузере
- - [x] 3. Глобальный объект Window
- - [x] 4. Что такое DOM?
- - [x] 5. DOM Дерево
- - [x] 6. Поиск по дереву
- - [x] 7. Консоль разработчика
- - [x] 8. Тесты
- - [x] 9. Манипулирование DOM деревом
- - [x] 10. Управление элементами DOM
- - [x] 11. Полифиллы
- - [x] 12. Введение в события
- - [x] 13. Формы
- - [x] 14. Перехват и всплытие
- - [ ] 15. События документа
- - [ ] 16. AJAX
- - [ ] 17. JQuery
+  - [x] 1. Introduction
+  - [x] 2. JS
+  - [x] 3. Window
+  - [x] 4. DOM
+  - [x] 5. DOM hierarchy
+  - [x] 6. Search
+  - [x] 7. Devtools
+  - [x] 8. Tests
+  - [x] 9. Tree manipulating
+  - [x] 10. Element manipulating
+  - [x] 11. Polyfills
+  - [x] 12. Events
+  - [x] 13. Forms
+  - [x] 14. Event stages
+  - [x] 15. Document events
+  - [ ] 16. AJAX
+  - [ ] 17. JQuery
