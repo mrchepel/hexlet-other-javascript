@@ -17,5 +17,10 @@
   - [x] 13. Forms
   - [x] 14. Event stages
   - [x] 15. Document events
-  - [ ] 16. AJAX
-  - [ ] 17. JQuery
+  - [x] 16. AJAX
+  - [x] 17. JQuery
+
+## Challenges:
+  - [ ] 1. Modal
+  - [ ] 2. Gem puzzle
+  - [ ] 3. Progress
